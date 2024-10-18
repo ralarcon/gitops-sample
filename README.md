@@ -1,0 +1,2 @@
+# gitops-sample
+GitOps Sample
